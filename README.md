@@ -1,66 +1,66 @@
 <h1 align="center">Hi 👋, I'm Aashish Bhusal</h1>
-<h3 align="center">Full Stack Developer | Java & Spring Boot Enthusiast | BIM IT Student from Nepal 🇳🇵</h3>
+<h3 align="center">Full Stack Developer | Java & Spring Boot | BIM IT Student 🇳🇵</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="coding animation"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="dark coding animation"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌌 About Me
 
-- 🎓 BIM IT Student  
-- 💻 Full Stack Developer (Java + Spring Boot + React)  
-- 🔥 Backend Focused – REST APIs & Authentication  
-- 🗄️ Strong in DBMS (MySQL, PostgreSQL)  
-- ⚙️ Learning Cloud & DevOps (Docker, AWS)  
-- 🌍 Goal: Build scalable applications like modern tech companies  
-- ⚽ Fun fact: I love playing football  
+```java
+public class AashishBhusal {
+
+    String role = "Full Stack Developer";
+    String focus = "Backend Engineering & Scalable Systems";
+    String education = "BIM IT Student";
+    String mindset = "Clean Code • Performance • Architecture";
+    String interest = "Football ⚽ & Building Real Products";
+
+}
+```
+
+- I design structured and scalable backend systems  
+- I build secure REST APIs with authentication  
+- I focus on clean architecture and maintainable code  
+- I continuously improve in system design and cloud  
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Arsenal
 
-### 💻 Backend
+```bash
+> Backend Stack
 Java | Spring Boot | REST API | JWT | Hibernate | JPA
 
-### 🌐 Frontend
+> Frontend Stack
 HTML | CSS | JavaScript | React | Bootstrap
 
-### 🗄 Database
+> Database Layer
 MySQL | PostgreSQL | MongoDB
 
-### ⚙ Tools & DevOps
+> Dev & Deployment
 Git | GitHub | Docker | Linux | Postman
+```
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Learning
 
-- Spring Security Advanced
+```yaml
+- Advanced Spring Security
 - Microservices Architecture
 - Docker & Kubernetes
-- AWS Deployment
-- System Design Basics
+- AWS Deployment & Cloud Infrastructure
+- System Design Fundamentals
+```
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 https://aashish-bhusal.com.np
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashis10E&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashis10&layout=compact&theme=tokyonight" />
-</p>
+🔗 https://aashish-bhusal.com.np  
 
 ---
 
@@ -80,12 +80,14 @@ Git | GitHub | Docker | Linux | Postman
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
 </a>
 
+<a href="https://github.com/Aashis10" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="30" width="30" />
+</a>
+
 </p>
 
 ---
 
-## ⚡ Coding Animation
+## ⚡ Philosophy
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600"/>
-</p>
+> Build systems that scale. Write code that lasts.
