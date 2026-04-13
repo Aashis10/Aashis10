@@ -16,7 +16,7 @@ public class AashishBhusal {
     String focus = "Backend Engineering & Scalable Systems";
     String education = "BIM IT Student";
     String mindset = "Clean Code • Performance • Architecture";
-    String interest = "Football ⚽ & Building Real Products";
+    String interest = "Building Real Products";
 
 }
 ```
