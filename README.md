@@ -7,56 +7,54 @@
 
 ---
 
-## 🌌 About Me
+ 🌌 About Me
 
 ```java
 public class AashishBhusal {
 
-    String role = "Full Stack Developer";
-    String focus = "Backend Engineering & Scalable Systems";
-    String education = "BIM IT Student";
-    String mindset = "Clean Code • Performance • Architecture";
-    String interest = "Building Real Products";
-
+    private final String role = "Java & Spring Boot Developer";
+    private final String specialization = "Backend Development";
+    private final String education = "BIM Student";
+    private final String interests = "System Design, Cloud & DevOps";
+    private final String mindset = "Clean Code • Continuous Learning";
 }
 ```
 
-- I design structured and scalable backend systems  
-- I build secure REST APIs with authentication  
-- I focus on clean architecture and maintainable code  
-- I continuously improve in system design and cloud  
+I enjoy building backend applications that are reliable, maintainable, and scalable.
 
----
+### What I Do
 
-## ⚙️ Tech Arsenal
+* Design and develop RESTful APIs using Spring Boot
+* Build secure authentication and authorization systems
+* Work with relational and NoSQL databases
+* Apply clean architecture and best coding practices
+* Continuously learn backend, cloud, and DevOps technologies
 
-```bash
-> Backend Stack
-Java | Spring Boot | REST API | JWT | Hibernate | JPA
+## ⚙️ Tech Stack
 
-> Frontend Stack
-HTML | CSS | JavaScript | React | Bootstrap
+### Backend
 
-> Database Layer
-MySQL | PostgreSQL | MongoDB
+Java • Spring Boot • Spring Security • Hibernate • JPA • REST APIs • JWT
 
-> Dev & Deployment
-Git | GitHub | Docker | Linux | Postman
-```
+### Frontend
 
----
+React • JavaScript • HTML • CSS • Bootstrap
+
+### Database
+
+MySQL • PostgreSQL • MongoDB
+
+### Tools & DevOps
+
+Git • GitHub • Docker • Linux • Postman
 
 ## 🚀 Currently Learning
 
-```yaml
-- Advanced Spring Security
-- Microservices Architecture
-- Docker & Kubernetes
-- AWS Deployment & Cloud Infrastructure
-- System Design Fundamentals
-```
-
----
+* Microservices Architecture
+* Advanced Spring Security
+* Docker & Kubernetes
+* AWS Cloud Services
+* System Design & Scalability
 
 ## 🌐 Portfolio
 
