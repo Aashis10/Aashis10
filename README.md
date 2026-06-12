@@ -46,8 +46,6 @@ MySQL • PostgreSQL • MongoDB
 
 <h3>Languages and Tools:</h3>
 
-<h3>Languages and Tools:</h3>
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
